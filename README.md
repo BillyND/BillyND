@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billynd" alt="billynd" /></a> </p>
 
-- 🔭 I’m currently working on [EverFlow Subscription Shopify App](https://apps.shopify.com/everflow-subscriptions?st_source=autocomplete)
+- 🔭 I’m currently working on [QuickSub Subscription Shopify App](https://apps.shopify.com/quicksub-subscriptions?st_source=autocomplete)
 
 - 👯 I’m looking to collaborate on **Shopify App**
 
