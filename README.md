@@ -31,7 +31,7 @@
 const billy = {
   location: "Vietnam 🇻🇳",
   roles: ["Software Engineer", "Shopify App Builder"],
-  currentFocus: "Building Peakify — Smart Bundle Discounts for Shopify",
+  currentFocus: "Building Peakify Upsell Bundles — Smart Bundle Discounts for Shopify",
   askMeAbout: ["Shopify Apps", "React", "TypeScript", "System Design"],
   funFact: "I turn coffee into Shopify apps ☕️ → 🛍️"
 };
