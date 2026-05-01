@@ -1,28 +1,145 @@
 <div align="center">
 
-# Peakify Upsell Bundles
-
-**Smart Bundle Discounts & Quantity Breaks for Shopify**
-
-[![License](https://img.shields.io/badge/license-proprietary-blue?style=flat-square)](./LICENSE)
-[![Shopify](https://img.shields.io/badge/Shopify-App-96bf48?style=flat-square&logo=shopify&logoColor=white)](https://apps.shopify.com/peakify)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Polaris](https://img.shields.io/badge/Shopify_Polaris-UI-5c6ac4?style=flat-square)](https://polaris.shopify.com/)
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Billy+Nguyen+%F0%9F%91%8B;Full-stack+Developer;Shopify+App+Builder;Building+products+that+scale" alt="Typing SVG" />
 
 <br />
 
-<!-- Replace with actual hero screenshot -->
-<img src="./docs/images/hero-preview.png" alt="Peakify Bundle Discounts Preview" width="720" />
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/long-nguyen-849b1226a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nduclong6201@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/billynd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=billynd&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+
+</div>
 
 <br />
 
-### Increase AOV by 15-40% with intelligent bundle deals
+## About Me
 
-Create quantity breaks, volume discounts, and bundle offers in minutes — no code required.
+```typescript
+const billy = {
+  location: "Vietnam 🇻🇳",
+  roles: ["Full-stack Developer", "Shopify App Builder"],
+  currentFocus: "Building Peakify — Smart Bundle Discounts for Shopify",
+  askMeAbout: ["Shopify Apps", "React", "TypeScript", "System Design"],
+  funFact: "I turn coffee into Shopify apps ☕️ → 🛍️"
+};
+```
 
 <br />
 
-[**Add to Shopify**](https://apps.shopify.com/peakify) &nbsp;·&nbsp; [**Documentation**](https://docs.peakify.com) &nbsp;·&nbsp; [**Live Demo**](https://demo.peakify.com)
+## Tech Stack
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Shopify Ecosystem
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Polaris](https://img.shields.io/badge/Polaris-5C6AC4?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-000000?style=for-the-badge&logo=shopify&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br />
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Peakify Upsell Bundles
+**Shopify App** — Increase AOV with smart bundle discounts
+
+- Quantity breaks, volume discounts, mix & match bundles
+- Real-time analytics & revenue tracking
+- Theme-native storefront widgets
+- Built with React, TypeScript, MongoDB, Shopify Functions
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Easify Box Bundle Builder
+**Shopify App** — Build-your-own-bundle (BYOB) solution
+
+- Drag-and-drop bundle builder
+- Customizable box configurations
+- Subscription-ready bundles
+- Multi-step product selection flow
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=billynd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billynd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170" />
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=billynd&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+<br />
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billynd/billynd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billynd/billynd/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/billynd/billynd/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -30,197 +147,16 @@ Create quantity breaks, volume discounts, and bundle offers in minutes — no co
 
 ---
 
-## Why Peakify?
-
-Most upsell apps are complex, slow, or break your theme. Peakify is different:
-
-| Challenge | Peakify Solution |
-|-----------|------------------|
-| Complex setup | 30-second install, visual deal builder |
-| Slow storefronts | < 5KB bundle, < 100ms render |
-| Theme conflicts | Native theme integration, no code injection |
-| Limited analytics | Real-time revenue tracking & conversion insights |
-
-<br />
-
-## Key Features
-
-<table>
-<tr>
-<td width="50%">
-
-### Deal Types
-
-- **Quantity Breaks** — Buy more, save more tiers
-- **Bundle Discounts** — Build-your-own bundles
-- **Volume Discounts** — Cart-wide savings
-- **Mix & Match** — Flexible product combinations
-- **Related Products** — Smart recommendations
-- **Announcement Bars** — Urgency & promotions
-
-</td>
-<td width="50%">
-
-### Built for Scale
-
-- **Real-time Analytics** — Revenue, conversions, per-deal metrics
-- **Theme-native UI** — Works with any Shopify theme
-- **Live Preview** — See changes before publishing
-- **Multi-language** — 10+ languages supported
-- **Customer Targeting** — Segment-based offers
-- **Schedule & Countdown** — Time-limited deals
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## How It Works
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   1. CREATE          2. CUSTOMIZE          3. PUBLISH               │
-│                                                                     │
-│   ┌──────────┐       ┌──────────┐         ┌──────────┐             │
-│   │  Visual  │  ──►  │  Design  │   ──►   │  One     │             │
-│   │  Deal    │       │  Editor  │         │  Click   │             │
-│   │  Builder │       │          │         │  Deploy  │             │
-│   └──────────┘       └──────────┘         └──────────┘             │
-│                                                                     │
-│   Choose deal type,   Match your brand    Go live instantly        │
-│   set tiers & rules   colors & style      with live preview        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br />
-
-## Screenshots
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="./docs/images/deal-editor.png" alt="Deal Editor" width="100%" />
-<br /><em>Visual Deal Editor</em>
-</td>
-<td align="center" width="33%">
-<img src="./docs/images/analytics.png" alt="Analytics Dashboard" width="100%" />
-<br /><em>Analytics Dashboard</em>
-</td>
-<td align="center" width="33%">
-<img src="./docs/images/storefront.png" alt="Storefront Widget" width="100%" />
-<br /><em>Storefront Widget</em>
-</td>
-</tr>
-</table>
-
-<br />
-
-## Quick Start
-
-```bash
-# 1. Install from Shopify App Store
-# Visit: https://apps.shopify.com/peakify
-
-# 2. Create your first deal
-# Navigate to: Apps → Peakify → Create Deal
-
-# 3. Publish and watch AOV grow
-# Enable live preview, then publish to your store
-```
-
-**That's it.** No theme code changes. No developers needed.
-
-<br />
-
-## Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| **Frontend** | React 19, React Router 7, Shopify Polaris |
-| **Backend** | Node.js, Express, MongoDB |
-| **Checkout** | Shopify Functions (Rust/WASM) |
-| **Storefront** | Theme Extension (React + Liquid) |
-| **Language** | TypeScript (strict mode) |
-
-<br />
-
-## Pricing
-
-| Plan | Monthly | Features |
-|------|---------|----------|
-| **Starter** | Free | 3 deals, basic analytics |
-| **Growth** | $19 | Unlimited deals, advanced analytics |
-| **Pro** | $49 | Custom branding, priority support |
-| **Enterprise** | Custom | Dedicated support, SLA |
-
-[View full pricing →](https://peakify.com/pricing)
-
-<br />
-
-## Documentation
-
-- [**Getting Started**](https://docs.peakify.com/getting-started) — First deal in 5 minutes
-- [**Deal Types Guide**](https://docs.peakify.com/deals) — Deep dive into each deal type
-- [**Design Customization**](https://docs.peakify.com/design) — Match your brand
-- [**Analytics Guide**](https://docs.peakify.com/analytics) — Understand your metrics
-- [**FAQ**](https://docs.peakify.com/faq) — Common questions answered
-
-<br />
-
-## Support
-
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>Email</strong><br />
-<a href="mailto:support@peakify.com">support@peakify.com</a>
-</td>
-<td align="center" width="33%">
-<strong>In-App Chat</strong><br />
-Real-time support in dashboard
-</td>
-<td align="center" width="33%">
-<strong>Documentation</strong><br />
-<a href="https://docs.peakify.com">docs.peakify.com</a>
-</td>
-</tr>
-</table>
-
-<br />
-
-## Performance
-
-Peakify is built with performance as a core principle:
-
-- **Storefront Impact:** < 5KB gzipped, async loading
-- **Widget Render:** < 100ms on modern browsers
-- **Admin Dashboard:** < 500ms initial load
-- **Checkout Functions:** < 50ms discount calculation
-
-<br />
-
-## Security & Compliance
-
-- **GDPR Compliant** — No personal data stored
-- **SOC 2 Type II** — Enterprise-grade security (in progress)
-- **Shopify App Store** — Verified & approved
-- **Data Encryption** — TLS 1.3, encrypted at rest
-
-<br />
-
----
-
 <div align="center">
 
-**Built with precision for Shopify merchants**
+### Let's Connect!
 
-[Website](https://peakify.com) · [App Store](https://apps.shopify.com/peakify) · [Twitter](https://twitter.com/peakifyapp)
+💼 Open to collaborating on **Shopify apps & SaaS projects**
+
+📫 Reach me at **nduclong6201@gmail.com**
 
 <br />
 
-Made with ❤️ by [Billy Nguyen](https://github.com/billynd)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
 
 </div>
