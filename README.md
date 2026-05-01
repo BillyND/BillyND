@@ -72,7 +72,6 @@ const billy = {
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Polaris](https://img.shields.io/badge/Polaris-5C6AC4?style=for-the-badge&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-![Hydrogen](https://img.shields.io/badge/Hydrogen-000000?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -119,13 +118,17 @@ const billy = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-billynd.vercel.app/api?username=BillyND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats-billynd.vercel.app/api/top-langs/?username=BillyND&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=BillyND&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 <br />
 <br />
 
 <img src="https://streak-stats.demolab.com?user=BillyND&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BillyND&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316" alt="Activity Graph" />
 
 <br />
 <br />
