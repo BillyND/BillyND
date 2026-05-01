@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Billy+Nguyen+%F0%9F%91%8B;Full-stack+Developer;Shopify+App+Builder;Building+products+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=I'm+Billy+%F0%9F%91%8B;Software+Engineer;Shopify+App+Builder" alt="Typing SVG" />
 
 <br />
 
@@ -12,14 +12,14 @@
 <a href="mailto:nduclong6201@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/billynd">
+<a href="https://github.com/BillyND">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=billynd&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=BillyND&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -30,7 +30,7 @@
 ```typescript
 const billy = {
   location: "Vietnam 🇻🇳",
-  roles: ["Full-stack Developer", "Shopify App Builder"],
+  roles: ["Software Engineer", "Shopify App Builder"],
   currentFocus: "Building Peakify — Smart Bundle Discounts for Shopify",
   askMeAbout: ["Shopify Apps", "React", "TypeScript", "System Design"],
   funFact: "I turn coffee into Shopify apps ☕️ → 🛍️"
@@ -46,7 +46,7 @@ const billy = {
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -119,27 +119,13 @@ const billy = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=billynd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billynd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=BillyND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyND&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=billynd&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-<br />
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billynd/billynd/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billynd/billynd/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/billynd/billynd/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BillyND&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
